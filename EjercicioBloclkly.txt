@@ -1,0 +1,10 @@
+var costobarra, nobarrasdia, barrasvendidas, total;
+
+
+costobarra = 34;
+nobarrasdia = 60;
+barrasvendidas = window.prompt('numero de barras vendidas');
+window.alert('EL precio de una barra es' + String(costobarra));
+window.alert('el descuento que se le hace es de' + String(nobarrasdia));
+total = barrasvendidas * costobarra * 0.6;
+window.alert(total);

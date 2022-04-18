@@ -1,0 +1,21 @@
+Git ini  =  iniciar repositorio
+
+git add = agregar archivos
+
+git status -s = ver archivos en el repositorio
+
+git push
+
+git pull
+
+git clone
+
+git remote add
+
+git checkout
+
+git remote -v
+
+>git push origin master = enviar cambios a remoto
+
+>git commit -m "initial master"  = realizar antes de un push

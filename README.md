@@ -22,12 +22,12 @@ codigo fuente de los mismos.
 ## Indice
 
 - [X] [Sesión 1 - QA Fundamentals](https://github.com/victorjair/bedupostwork/tree/master/Sesion%201)
-- [X] [Sesión 2 - Testing processes in agile](https://github.com/begeistert/microcontrollers-ccs-c-compiler/tree/main/src/standard_io)
-- [X] [Sesión 3 - Plan, Design & Excecute](https://github.com/begeistert/microcontrollers-ccs-c-compiler/tree/main/src/display_7_seg_0-99)
-- [X] [Sesión 4 - Automated test types](https://github.com/begeistert/microcontrollers-ccs-c-compiler/tree/main/src/display-LCD)
-- [X] [Sesión 5 - Automation testing tools](https://github.com/begeistert/microcontrollers-ccs-c-compiler/tree/main/src/teclado_matricial)
-- [X] [Sesión 6 - Unit testing](https://github.com/begeistert/microcontrollers-ccs-c-compiler/tree/main/src/interrupcion_rb0)
-- [X] [Sesión 7 - Integration testing](https://github.com/begeistert/microcontrollers-ccs-c-compiler/tree/main/src/timer_0)
+- [X] [Sesión 2 - Testing processes in agile](https://github.com/victorjair/bedupostwork/tree/master/Sesion%202)
+- [X] [Sesión 3 - Plan, Design & Excecute](https://github.com/victorjair/bedupostwork/tree/master/Sesion%203)
+- [X] [Sesión 4 - Automated test types](https://github.com/victorjair/bedupostwork/tree/master/Sesion%204)
+- [X] [Sesión 5 - Automation testing tools](https://github.com/victorjair/bedupostwork/tree/master/Sesion%205)
+- [X] [Sesión 6 - Unit testing](https://github.com/victorjair/bedupostwork/tree/master/Sesion%206)
+- [X] [Sesión 7 - Integration testing](https://github.com/victorjair/bedupostwork/tree/master/Sesion%207)
 
 
 ## Requerimientos

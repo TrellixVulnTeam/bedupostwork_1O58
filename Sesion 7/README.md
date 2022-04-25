@@ -35,6 +35,13 @@ A continuación se describen algunas historias de usuario
 * Crear la lógica necesaria para obtener los detalles de la inversión desde nuestra API.
 * Ejecuta las pruebas.
 
+### Resultados
+
+A continuación video de evidencias: [Evidencias.mp4](https://github.com/victorjair/bedupostwork/raw/master/Sesion%205/Evidencias_Postwork_Sesion_07.mp4)
+
+
+Código Fuente. [postwork_sesion_06.zip](https://github.com/victorjair/bedupostwork/raw/master/Sesion%206/postwork_sesion_06.zip)
+
 ### Reflexiones Finales
 
 1. **¿Decidiste probar directamente la interfaz gráfica, los casos de uso o ambos? ¿Por qué?**

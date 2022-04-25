@@ -32,14 +32,14 @@ codigo fuente de los mismos.
 
 ## Requerimientos
 
-- [NodeJS](http://www.ccsinfo.com/content.php?page=compilers)
-- [IntelliJ IDEA](https://www.labcenter.com/)
-- [WebStorm](http://www.ccsinfo.com/content.php?page=compilers)
-- [Eclipse](https://www.labcenter.com/)
-- [Git](https://www.labcenter.com/)
-- [Jest](http://www.ccsinfo.com/content.php?page=compilers)
-- [Vue](https://www.labcenter.com/)
-- [TestCafe](http://www.ccsinfo.com/content.php?page=compilers)
+- [NodeJS](https://nodejs.org/es/)
+- [IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/)
+- [WebStorm](https://www.jetbrains.com/es-es/webstorm/)
+- [Eclipse](https://www.eclipse.org/downloads/)
+- [Git](https://git-scm.com/)
+- [Jest](https://jestjs.io/)
+- [Vue](https://vuejs.org/)
+- [TestCafe](https://testcafe.io/)
 
 ## Licencia
 Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.

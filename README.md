@@ -16,9 +16,8 @@
 * Salmerón González, Victor
 
 ## Acerca del Proyecto
-En este repositorio serán almacenados y descritos periodicamente los algoritmos en C para el **_PIC_** mencionado partiendo de los ejemplos
-provistos por el libro _"Compilador C CCS Y Simulador PROTEUS para Microcontroladores PIC"_.
-Cada uno de los ejercicios aqui mostrados será descrito por un archivo `README` individual, podras acceder a ellos en los enlaces de abajo.
+En este repositorio se presentan los postworks de equipo 2 del modulo de QA Automation Testing, junto con evidencias y 
+codigo fuente de los mismos.
 
 ## Indice
 

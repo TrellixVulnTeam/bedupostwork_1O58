@@ -13,7 +13,7 @@
 * Roberto Bertrand Lizárraga
 * Iván Montiel Cardona
 * Mungarro Echeverría Héctor
-* Salmerón González, Victor
+* Salmerón González Victor
 
 ## Desarollo
 A continuación realizaremos un método que nos permite hacer conversiones de PascalCase y snake_case a camelCase

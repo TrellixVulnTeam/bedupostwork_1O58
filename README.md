@@ -13,7 +13,7 @@
 * Roberto Bertrand Lizárraga
 * Iván Montiel Cardona
 * Mungarro Echeverría Héctor
-* Salmerón González, Victor
+* Salmerón González Victor
 
 ## Acerca del Proyecto
 En este repositorio se presentan los postworks de equipo 2 del modulo de QA Automation Testing, junto con evidencias y 

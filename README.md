@@ -47,7 +47,4 @@ Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más informaci
 
 #### [Reporta un problema](https://github.com/begeistert/microcontrollers-ccs-c-compiler/issues)
 
-##### Roberto Bertrand Lizárraga
-##### Iván Montiel Cardona
-##### Mungarro Echeverría Héctor
-##### Salmerón González, Victor
+##### Equipo 2

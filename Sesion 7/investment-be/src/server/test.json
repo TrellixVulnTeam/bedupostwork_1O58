@@ -1,0 +1,8 @@
+{
+  "name":"pruebaDeSelectID",
+  "description":"cetes 28 days",
+  "interest": 8,
+  "startingAmount": "16",
+  "duration": 24,
+  "startDate" : "2021-01-01"
+}

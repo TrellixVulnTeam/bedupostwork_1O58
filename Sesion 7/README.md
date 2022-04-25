@@ -37,10 +37,10 @@ A continuación se describen algunas historias de usuario
 
 ### Resultados
 
-A continuación video de evidencias: [Evidencias.mp4](https://github.com/victorjair/bedupostwork/raw/master/Sesion%205/Evidencias_Postwork_Sesion_07.mp4)
+A continuación video de evidencias: [Evidencias.mp4](https://github.com/victorjair/bedupostwork/raw/master/Sesion%205/Evidencias_Postwork_Sesion_07.mov)
 
 
-Código Fuente. [postwork_sesion_06.zip](https://github.com/victorjair/bedupostwork/raw/master/Sesion%206/postwork_sesion_06.zip)
+Código Fuente. [investment-be](https://github.com/victorjair/bedupostwork/tree/master/Sesion%207/investment-be)
 
 ### Reflexiones Finales
 

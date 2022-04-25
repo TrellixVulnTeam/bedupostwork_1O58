@@ -16,7 +16,13 @@
 * Salmerón González Victor
 
 ## Desarollo
-Generar la historia de usuario (formato **AS**, **WANT**, **SO**) y las descripciones `BDD` (formato **GIVEN**, **WHEN**, **THEN**) necesarias para el caso de uso de iniciar sesión en nuestra plataforma.
+A continuación se describen algunas historias de usuario
+
+Al consultar los detalles de una inversión podemos ver el monto final (monto inicial + intereses - impuestos)
+El sistema calculará el porcentaje de ISR a pagar
+Define los escenarios a probar
+Realiza pruebas unitarias o de integración
+Implementa la funcionalidad
 
 ### Requerimientos
 
@@ -28,9 +34,12 @@ Generar la historia de usuario (formato **AS**, **WANT**, **SO**) y las descripc
 
 ### Instrucciones
 
-* En este documento en la sección de indicaciones generales añadiremos lo enlistado en los siguientes puntos.
-* Crear una historia de usuario general en formato **AS**, **WANT**, **SO**.
-* Crear descripciones para cada uno de los requerimientos en formato **GIVEN**, **WHEN**, **THEN**.
+* Agrega los casos de pruebas que consideres necesarios
+* En nuestro archivo app.js crea una nuevo endpoint de tipo GET con ruta get-details que recibirá como queryparam el id de la inversión
+* Crear un nuevo método dentro la entidad Investment llamado getFinalAmountAfterTaxes
+* Implementa la lógica para calcular los impuestos a pagar
+* Implementa la lógica para obtener el valor final de la inversión (monto inicial + intereses - impuestos)
+* Ejecuta las pruebas.
 
 ### Indicaciones generales
 
@@ -42,13 +51,15 @@ Generar la historia de usuario (formato **AS**, **WANT**, **SO**) y las descripc
 
 ### Resultados
 
-* **GIVEN** un usuario **WHEN** ingresa una contraseña incorrecta **THEN** el sistema se lo indicara 
-* **GIVEN** un usuario **WHEN** ingresa un correo electrónico no registrado **THEN** el sistema se lo indicara 
-* **GIVEN** un usuario **WHEN** intenta iniciar una sesión con un coreo electrónico ligado a una cuenta de Google de la que ya existe una cuenta **THEN** se le indica que el correo indicado ya esta registrado y que utilice el botón de Google 
-* **GIVEN** un usuario **WHEN** intenté iniciar sesión con un correo electrónico ligado a una cuenta de Facebook de la que ya existe una cuenta **THEN** se le indica que el correo indicado ya esta registrado y que utilice el botón de Facebook
+A continuación video de evidencias: [Evidencias.zip](https://github.com/victorjair/bedupostwork/raw/master/Evidencia%20Postwork%20Sesion%2006.zip)
+
+
+
+
 
 
 ## Licencia
 Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.
 
 ##### Equipo 2
+

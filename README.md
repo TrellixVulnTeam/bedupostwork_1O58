@@ -21,7 +21,7 @@ codigo fuente de los mismos.
 
 ## Indice
 
-- [X] [Sesión 1 - QA Fundamentals](https://github.com/begeistert/microcontrollers-ccs-c-compiler/tree/main/src/fast_io)
+- [X] [Sesión 1 - QA Fundamentals](https://github.com/victorjair/bedupostwork/tree/master/Sesion%201)
 - [X] [Sesión 2 - Testing processes in agile](https://github.com/begeistert/microcontrollers-ccs-c-compiler/tree/main/src/standard_io)
 - [X] [Sesión 3 - Plan, Design & Excecute](https://github.com/begeistert/microcontrollers-ccs-c-compiler/tree/main/src/display_7_seg_0-99)
 - [X] [Sesión 4 - Automated test types](https://github.com/begeistert/microcontrollers-ccs-c-compiler/tree/main/src/display-LCD)

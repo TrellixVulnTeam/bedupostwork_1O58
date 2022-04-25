@@ -37,12 +37,12 @@ A continuación se describen algunas historias de usuario
 
 ### Reflexiones Finales
 
-¿Terminaste la actividad? responde las siguientes preguntas:
-
-¿Decidiste probar directamente la interfaz gráfica, los casos de uso o ambos? ¿Por qué?
-¿Qué ventajas tiene probar directamente la interfaz gráfica?
-¿Qué ventaja tiene probar los casos de uso?
-
+1. **¿Decidiste probar directamente la interfaz gráfica, los casos de uso o ambos? ¿Por qué?**
+   * Se probaron directamente los casos de uso, tanto del POST como del GET, esto en gran parte debido a la falta de tiempo para concretar la actividad.
+3. **¿Qué ventajas tiene probar directamente la interfaz gráfica?**
+   * Mayor control respecto a la información introducida, además de evaluar desde el punto de vista del usuario final.
+5. **¿Qué ventaja tiene probar los casos de uso?**
+   * Buscar cualquier desperfecto en el codigo implementado y resolverlo antes de la liberación al publico en general, y para documentar las pruebas funcionales.
 
 ## Licencia
 Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.

@@ -44,6 +44,4 @@ codigo fuente de los mismos.
 ## Licencia
 Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.
 
-#### [Reporta un problema](https://github.com/begeistert/microcontrollers-ccs-c-compiler/issues)
-
 ##### Equipo 2

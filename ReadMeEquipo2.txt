@@ -2,7 +2,7 @@ Equipo2
 
 1.Victor Jair Salmeron Gonzalez
 
-2.- Bertrand Lizarraga roberto
+2.- Bertrand Lizarraga Roberto
 
 3.- Hector Mungarro  Echeverria
 
